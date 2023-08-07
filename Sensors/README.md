@@ -18,6 +18,7 @@
   These sensors are to ONLY go into the ANALOG port block.
 ### Potentiometer
   The potentiometer is a sensor that is limited to 127 degrees of motion in both directions similar to the servo motor (exception: V5 potentiometer). This sensor can give a very accurate measurement of the angle at which the axle running inside of it is at. It will return rotational location data that can be processed later.
+  Do not use this to change resistances of circuits like you would with a normal potentiometer.
   Please note that you can break the sensor by pushing it past the 127 degree mark causing incorrect results.
 ### Line Follower
   By using the infrared emissions from different colors, the line follower is able to determine where different colors are. By using two or three of these sensors you can make a robot follow a line. It will return the emission data of what is in front of it which can be processed later.
