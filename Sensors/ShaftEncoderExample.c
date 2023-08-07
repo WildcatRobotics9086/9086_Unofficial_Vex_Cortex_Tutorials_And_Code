@@ -13,7 +13,7 @@ task main(){
   while(true) {
     //Reads the sensor and outputs the data to the debug stream (debug stream may not open automatically you may have to open it manually using the menus at the top)
     encoder = SensorValue(dgtl2);
-		writeDebugStreamLine("Rotations:", encoder);
+    writeDebugStreamLine("Rotations:", encoder);
     wait(1000);
   }
 }
