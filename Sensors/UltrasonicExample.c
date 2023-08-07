@@ -13,7 +13,7 @@ task main(){
   while(true) {
     //Reads the sensor and outputs the data to the debug stream (debug stream may not open automatically you may have to open it manually using the menus at the top)
     int ultrasonic = SensorValue(dgtl2);
-		writeDebugStreamLine("Distance:", ultrasonic);
+    writeDebugStreamLine("Distance:", ultrasonic);
     wait(1000);
   }
 }
