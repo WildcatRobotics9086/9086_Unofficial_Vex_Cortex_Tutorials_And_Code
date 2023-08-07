@@ -2,7 +2,7 @@
 This snippet is designed to display how to make the component work and show all of the functions for them.
 
 Display: 
-  Motor with variable speed by gathering data from joystick
+  Motor (port 2) with variable speed by gathering data from joystick
 Notes:
   CANNOT DO THIS WHILE COMPUTER IS CONNECTED TO CORTEX
 */
