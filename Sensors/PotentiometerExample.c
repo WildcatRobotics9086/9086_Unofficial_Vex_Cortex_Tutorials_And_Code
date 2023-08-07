@@ -13,7 +13,7 @@ task main(){
   while(true) {
     //Reads the sensor and outputs the data to the debug stream (debug stream may not open automatically you may have to open it manually using the menus at the top)
     potentiometer = SensorValue(in2);
-		writeDebugStreamLine("Angle:", potentiometer);
+    writeDebugStreamLine("Angle:", potentiometer);
     wait(1000);
   }
 }
