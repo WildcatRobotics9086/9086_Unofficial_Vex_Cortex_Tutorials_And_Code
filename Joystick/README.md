@@ -1,5 +1,5 @@
 # Controller
-  When using a controller, all output ports are labeled.
+  When programming with a controller, all output ports are labeled.
 ## Buttons
   Buttons act like regular switches shown in the sensors section but have a different label for accessing their outputs.
 ## Joysticks
