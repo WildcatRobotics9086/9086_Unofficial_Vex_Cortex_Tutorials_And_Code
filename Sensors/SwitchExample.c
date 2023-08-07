@@ -18,8 +18,9 @@ task main() {
     if (pressed == 1) {
       writeDebugStreamLine("Button is pressed");
     }
+    //If the button is not pressed it will output the else
     else {
-		  writeDebugStreamLine("Button is not pressed");
+      writeDebugStreamLine("Button is not pressed");
     }
     wait(1000);
   }
