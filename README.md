@@ -5,3 +5,7 @@ This repository has been developed to help newcomers to the older Vex Robotics V
 Images credit to VEX Robotics website: https://www.vexrobotics.com
 
 ![Cortex Image](https://github.com/WildcatRobotics9086/9086_Unofficial_Vex_Cortex_Tutorials_And_Code/tree/main/cortex.png?raw=true)
+
+Code and Knowledge Credit to:
+Aidan Snyder (WackyTubeman)
+Jonah Daniels (Zenuts1)
