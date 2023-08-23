@@ -7,3 +7,6 @@
   For the rest of the motor control block on the Cortex a motor controller 29 is required, these motor controllers are placed between the motor and the block of ports for motors. Notably the controllers have 3 pins on one side and 2 on the other. The 2 side can go directly into the motor while the 1 side goes into the port block.
 ## Servo Motor
   Servo motors are essential for any precise manuever that is performed in the 127 degree range. These motors do not need a special motor controller connected to them as it is baked into the servo itself. Remember that servos can be damaged if they are pushed past their limits (something that must be done manually), in fact it is best to not view the servo as a regular motor and instead view it as a point of fine rotational movement because of this issue.
+
+![image](https://github.com/WildcatRobotics9086/9086_Unofficial_Vex_Cortex_Tutorials_And_Code/assets/99372113/676c15db-9f2b-4b53-8061-f842e2a80f90)
+![image](https://github.com/WildcatRobotics9086/9086_Unofficial_Vex_Cortex_Tutorials_And_Code/assets/99372113/b62bade3-9a5c-4dac-84e9-d9eda022a576)
