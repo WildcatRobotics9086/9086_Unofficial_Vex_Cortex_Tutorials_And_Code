@@ -6,6 +6,7 @@
   An ultrasonic sensor works by sending out a pulse of an ultrasonic wave and timing the amount of time it takes for the wave to return, similar to echolocation. The sensor is very useful in determining distance but must be used with caution as sound dampening materials (example: carpet floor tiles) may skew or distort the output. The sensor is strange as it has 2 sets of 3 pin connectors, one set is used to send the pulse signal and one is the sense signal. The ultrasonic sensor will output in raw data, centimeters, or inches.
   Do not cover the "eyes" of the sensor as it will then always provide an incorrect result until uncovered.
   The ultrasonic sensor does have a unspecified range and will provide innaccurate or null results if the range is exceeded.
+  <img src="[/repository/assets/employee.png](https://github.com/WildcatRobotics9086/9086_Unofficial_Vex_Cortex_Tutorials_And_Code/tree/main/Sensors/images/ultrasonic.png)" alt="Ultrasonic Image" title="Ultrasonic Image">
   ![alt text](https://github.com/WildcatRobotics9086/9086_Unofficial_Vex_Cortex_Tutorials_And_Code/tree/main/Sensors/images/ultrasonic.png?raw=true)
 ### Bumper Switch
   The easiest sensor to understand as it is only a button. It will provide results in either 1 or 0 (true or false).
