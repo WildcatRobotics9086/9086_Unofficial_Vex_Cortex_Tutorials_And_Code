@@ -46,7 +46,6 @@ task main()
 			char character = stringGetChar(dataString, x);
       //sned character
 			sendChar(UART1, character);
-			sendChar(UART2, character);
 		  writeDebugStreamLine("Sending data: %c", character);
 		}
 
@@ -55,6 +54,5 @@ task main()
 	  clearDebugStream();
 		writeDebugStreamLine("Sending data: %c", end);
 		sendChar(UART1, end);
-		sendChar(UART2, end);
 	}
 }
