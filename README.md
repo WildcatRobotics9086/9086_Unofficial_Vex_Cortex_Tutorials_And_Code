@@ -8,5 +8,5 @@ Images credit to VEX Robotics website: https://www.vexrobotics.com
 
 Code and Knowledge Credit to:
 
-Aidan Snyder (WackyTubeman)
-Jonah Daniels (Zenuts1)
+- Aidan Snyder (WackyTubeman)
+- Jonah Daniels (Zenuts1)
