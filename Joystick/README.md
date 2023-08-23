@@ -1,6 +1,7 @@
 # Controller
   When programming with a controller, all output ports are labeled.
 ![Joystick Controller Image](https://github.com/WildcatRobotics9086/9086_Unofficial_Vex_Cortex_Tutorials_And_Code/tree/main/Joystick/joystick.png?raw=true)
+
 ## Buttons
   Buttons act like regular switches shown in the sensors section but have a different label for accessing their outputs.
 ## Joysticks
