@@ -12,7 +12,7 @@ task main(){
   //Use a while() statement to constantly repeat the process
   while(true) {
     //Reads the joystick value and sends it to the motor. We are using joystick channel 1.
-    int speed = vexRT[1];
+    int speed = vexRT[Ch1];
     motor[port2] = speed;
     wait(1000);
   }
